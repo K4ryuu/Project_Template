@@ -6,7 +6,7 @@
 .build/
 
 # SourcePawn
-*.smx 	  # plugins
+*.smx
 
 # Others
 *.exe
