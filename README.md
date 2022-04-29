@@ -5,8 +5,6 @@
     <b>
         <a href="https://github.com/K4ryuu/Project_Template/releases">Download</a>
         ·
-        <a href="https://github.com/K4ryuu/Project_Template/blob/dev/docs">View Documents</a>
-        ·
         <a href="https://github.com/K4ryuu/Project_Template/issues">Report Bug</a>
         ·
         <a href="https://github.com/K4ryuu/Project_Template/issues">Request Feature</a>
