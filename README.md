@@ -1,5 +1,5 @@
 <font face = "Trebuchet MS">
-<p align="center">
+<div align="center">>
     <h2 align="center">Project Title</h2>
     <p align="center">Project Description</p>
     <b>
@@ -14,11 +14,10 @@
     <br/>
     Love the project? Please consider donating to help it improve!
     PayPal: paypal@kitsune-lab.dev
-</p>
+</div>
 
 <p align="center">
     <img width="300px" href="https://github.com/Kitsune-Lab" src="./../images/KitsuneLab.png" align="center" alt="KitsuneLogo"/>
 </p>
 
-<div align="center">
 </font>
