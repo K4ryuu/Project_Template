@@ -1,5 +1,5 @@
 <font face = "Trebuchet MS">
-<div align="center">>
+<div align="center">
     <h2 align="center">Project Title</h2>
     <p align="center">Project Description</p>
     <b>
