@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-    <img width="300px" href="https://github.com/Kitsune-Lab" src="./../images/KitsuneLab.png" align="center" alt="KitsuneLogo"/>
+    <img width="300px" href="https://github.com/Kitsune-Lab" src="https://kitsune-lab.dev/storage/images/kl-logo.webp" align="center" alt="KitsuneLogo"/>
 </p>
 
 </font>
