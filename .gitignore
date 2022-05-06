@@ -4,6 +4,7 @@
 ### KitsuneLab ###
 # Folders
 .build/
+.vanish/
 
 # SourcePawn
 *.smx
