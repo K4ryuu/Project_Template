@@ -10,7 +10,7 @@
         <a href="https://github.com/K4ryuu/Project_Template/issues">Request Feature</a>
     </b>
     <br/> <br/>
-    Love the project? Please consider donating to help it improve!<br/>
+    <b>Love the project? Please consider donating to help it improve!</b><br/>
     PayPal: paypal@kitsune-lab.dev<br/>
     Patreon: https://www.patreon.com/kitsunelab
 </div>
