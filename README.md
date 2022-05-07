@@ -11,8 +11,8 @@
     </b>
     <br/> <br/>
     <b>Love the project? Please consider donating to help it improve!</b><br/>
-    PayPal: paypal@kitsune-lab.dev<br/>
-    Patreon: https://www.patreon.com/kitsunelab
+    <b>PayPal:</b> paypal@kitsune-lab.dev<br/>
+    <b>Patreon:</b> https://www.patreon.com/kitsunelab
 </div>
 
 <p align="center">
