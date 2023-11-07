@@ -1,14 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 ![GitHub tag (with filter)](https://img.shields.io/github/v/tag/K4ryuu/Project_Template?style=for-the-badge&label=Version)
 ![GitHub Repo stars](https://img.shields.io/github/stars/K4ryuu/Project_Template?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/K4ryuu/Project_Template?style=for-the-badge)
@@ -151,11 +142,7 @@ The addon provides several commands and console variables (convars) to customize
 
 ## Roadmap
 
-- [x] Minimum amount of players to modify points
-- [ ] Switch to MySQL wrapper
-- [ ] Web Panel
-  - [ ] Top List
-  - [ ] Informations about points
+- [ ] No plans for now
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
